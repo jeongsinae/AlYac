@@ -4,10 +4,10 @@
 카카오톡 챗봇으로 이용가능하며 사용방법과 사진 촬영 예시 제공으로 편리한 이용   
 약의 이름과 복용법 제시, 추가 정보를 원할 시 약학정보원으로 이동 링크 제공   
 
-#### 실행영상   
+## 실행영상   
 <https://youtu.be/QjxSYqf6pGA>
 
-### 구현
+## 구현
 <img src="https://user-images.githubusercontent.com/49273782/168088223-b45c290d-ce68-4fca-bbd7-4434ebeee8d5.png" width="550px" height="200px"></img>
 + 전이학습을 통해 train : 728, val : 103 으로 학습 후 모델 추출
 
