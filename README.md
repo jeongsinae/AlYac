@@ -10,6 +10,8 @@
 ### 구현
 <img src="https://user-images.githubusercontent.com/49273782/168088223-b45c290d-ce68-4fca-bbd7-4434ebeee8d5.png" width="550px" height="200px"></img>
 + 전이학습을 통해 train : 728, val : 103 으로 학습 후 모델 추출
+
+<img src="https://user-images.githubusercontent.com/49273782/168091042-f9d5157b-cd86-47de-82e6-53924f635eb7.png" width="550px" height="200px"></img>   
 + 서버로 전송된 사진 정보를 json파일로 변환
 + 학습된 모델로 분류 후 결과를 다시 json파일로 변환해서 카카오톡 서버로 전송
 + 카카오톡 서버에서 사용자에게해당 분류 결과에 알맞은 정보를 제공
