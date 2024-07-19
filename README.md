@@ -29,6 +29,5 @@ API_KEY = '6b68c16912fcc075055369041cc6ef10'
 # Press Enter to execute
 ```
 
-Input : Elsevier.xlsx
-Output : Elsevier_ref_and_citation_check.csv
-
++ Input : Elsevier.xlsx
++ Output : Elsevier_ref_and_citation_check.csv
