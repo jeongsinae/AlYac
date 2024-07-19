@@ -15,3 +15,30 @@
 + 서버로 전송된 사진 정보를 json파일로 변환
 + 학습된 모델로 분류 후 결과를 다시 json파일로 변환해서 카카오톡 서버로 전송
 + 카카오톡 서버에서 사용자에게해당 분류 결과에 알맞은 정보를 제공
+
+
+Search Scopus Script
+This guide explains how to activate the Conda environment and run the search_scopus.py script. Follow the steps below to get started.
+
+## Demo Usage
+conda activate scopus
+python search_scopus.py
+
+# API_KEY = '6b68c16912fcc075055369041cc6ef10'
+
+Steps to Run the Script
+
+Activate the Conda environment:
+conda activate scopus
+
+Run the search_scopus.py script:
+python search_scopus.py
+
+Enter the API Key:
+6b68c16912fcc075055369041cc6ef10
+
+After entering the API key, press Enter once more to start the script execution.
+
+
+Input : Elsevier.xlsx
+Output : Elsevier_ref_and_citation_check.csv
