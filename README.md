@@ -21,24 +21,22 @@ Search Scopus Script
 This guide explains how to activate the Conda environment and run the search_scopus.py script. Follow the steps below to get started.
 
 ## Demo Usage
-+ conda activate scopus
-+ python search_scopus.py
+Search Scopus Script
+This guide explains how to activate the Conda environment and run the search_scopus.py script. Follow the steps below to get started.
 
-#### API_KEY = '6b68c16912fcc075055369041cc6ef10'
-
-Steps to Run the Script
-
-Activate the Conda environment:
+## Demo Usage
 conda activate scopus
-
-Run the search_scopus.py script:
 python search_scopus.py
 
-Enter the API Key:
-6b68c16912fcc075055369041cc6ef10
+# API_KEY = '6b68c16912fcc075055369041cc6ef10'
 
-After entering the API key, press Enter once more to start the script execution.
+conda activate scopus
+python search_scopus.py
+# Enter your API key when prompted
+API_KEY = '6b68c16912fcc075055369041cc6ef10'
+# Press Enter to execute
 
 
 Input : Elsevier.xlsx
 Output : Elsevier_ref_and_citation_check.csv
+
