@@ -21,10 +21,10 @@ Search Scopus Script
 This guide explains how to activate the Conda environment and run the search_scopus.py script. Follow the steps below to get started.
 
 ## Demo Usage
-conda activate scopus
-python search_scopus.py
++ conda activate scopus
++ python search_scopus.py
 
-# API_KEY = '6b68c16912fcc075055369041cc6ef10'
+#### API_KEY = '6b68c16912fcc075055369041cc6ef10'
 
 Steps to Run the Script
 
